@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA838CE5-5F8F-4CBF-84AB-D8DBF3592D7C}|CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week2\\nunit and moq\\1. moq-handson\\customercommlib\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA838CE5-5F8F-4CBF-84AB-D8DBF3592D7C}|CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FC39D-CACC-4D0E-A367-4D476599359D}|CustomerCommLib\\CustomerCommLib.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week2\\nunit and moq\\1. moq-handson\\customercommlib\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FC39D-CACC-4D0E-A367-4D476599359D}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FC39D-CACC-4D0E-A367-4D476599359D}|CustomerCommLib\\CustomerCommLib.csproj|c:\\codes\\cognizant_digital-nurture-4.0\\week2\\nunit and moq\\1. moq-handson\\customercommlib\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FC39D-CACC-4D0E-A367-4D476599359D}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:17:10.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\CustomerComm.cs",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerCommLib\\CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:15:02.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\MailSender.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\MailSender.cs",
+              "ToolTip": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. Moq-Handson\\CustomerCommLib\\CustomerCommLib\\MailSender.cs",
+              "RelativeToolTip": "CustomerCommLib\\MailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:14:24.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

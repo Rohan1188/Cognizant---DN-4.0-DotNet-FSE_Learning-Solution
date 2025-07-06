@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8cMDoHAA+RY=",
+  "success": true,
+  "projectFilePath": "C:\\CODEs\\Cognizant_Digital-Nurture-4.0\\Week2\\NUnit and Moq\\1. NUnit-Handson\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

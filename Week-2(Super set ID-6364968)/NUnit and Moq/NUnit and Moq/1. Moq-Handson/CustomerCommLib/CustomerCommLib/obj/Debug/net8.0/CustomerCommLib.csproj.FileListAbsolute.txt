@@ -1,0 +1,24 @@
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.sourcelink.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.sourcelink.json
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\1. Moq-Handson\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll

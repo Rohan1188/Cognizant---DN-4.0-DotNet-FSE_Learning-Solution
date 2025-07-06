@@ -1,0 +1,6 @@
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\Parent project code\AccountsManagerLib\bin\Debug\AccountsManagerLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\Parent project code\AccountsManagerLib\bin\Debug\AccountsManagerLib.pdb
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\Parent project code\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.AssemblyReference.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\Parent project code\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.CoreCompileInputs.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\Parent project code\AccountsManagerLib\obj\Debug\AccountsManagerLib.dll
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\Parent project code\AccountsManagerLib\obj\Debug\AccountsManagerLib.pdb

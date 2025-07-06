@@ -1,0 +1,2 @@
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\Parent project code\CalcLibrary\CalcLibrary.Tests\obj\Debug\CalcLibrary.Tests.csproj.AssemblyReference.cache
+C:\CODEs\Cognizant_Digital-Nurture-4.0\Week2\NUnit and Moq\Parent project code\CalcLibrary\CalcLibrary.Tests\obj\Debug\CalcLibrary.Tests.csproj.CoreCompileInputs.cache
