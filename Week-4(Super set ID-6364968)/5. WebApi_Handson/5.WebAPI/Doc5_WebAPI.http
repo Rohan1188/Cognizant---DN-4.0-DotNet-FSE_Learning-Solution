@@ -1,0 +1,6 @@
+@Doc5_WebAPI_HostAddress = http://localhost:5249
+
+GET {{Doc5_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
